@@ -83,6 +83,8 @@ chúng tôi cung cấp.<br/>
 <dt>Có thể tải cuốn sách này về không?</dt>
 <dd>Được, bạn có thể tải bản PDF của cuốn sách này. Tuy nhiên, hãy đảm bảo rằng bạn đã đọc kỹ 
 <b><a href="#cam-ket-bao-mat">Cam kết Bảo mật</a></b> từ chúng tôi.</dd>
+<dt>Tôi có bao nhiêu thời gian để tải về?</dt>
+<dd>Bạn có 7 ngày để tải về kể từ thời điểm nhận được email.</dd>
 <dt>Cuốn sách này có bản in cứng không?</dt>
 <dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in.</dd>
 <dt>Bao lâu thì tôi nhận được sách?</dt>
